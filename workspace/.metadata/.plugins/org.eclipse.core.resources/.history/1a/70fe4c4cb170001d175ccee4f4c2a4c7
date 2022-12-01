@@ -1,0 +1,10 @@
+package java02.variable;
+
+public class Var01_VariableTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

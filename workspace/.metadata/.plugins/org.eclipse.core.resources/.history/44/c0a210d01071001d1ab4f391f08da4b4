@@ -1,0 +1,27 @@
+package OOP;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Marin = m1 = new Marin();
+		
+		System.out.println(m1.hp);
+		m1.run();
+		m1.run();
+		m1.run();
+		m1.run();
+		m1.run();
+	}
+	 public class Marin {
+		 
+		 int hp = 100;
+		 
+		 void run()
+		 {
+			 hp -= 10;
+			 System.out.println("RUN" + hp);
+		 }
+	 }
+
+}

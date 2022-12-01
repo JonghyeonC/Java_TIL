@@ -1,0 +1,24 @@
+package OOP;
+
+class Base
+{
+	public void abc()
+	{
+		System.out.println("hello");
+	}
+}
+
+class Derived extends Base
+{
+	public void abc()
+	{
+		System.out.println("hihihi");
+	}
+}
+
+public class 상속2 {
+	public static void main(String[] args) {
+		Derived der = new Derived();
+		der.abc();
+	}
+}

@@ -1,0 +1,10 @@
+package java04.control;
+
+public class Loop02 {
+	public static void main(String[] args) {
+		int n = 5;
+		
+		while (n < 5) {
+			System.out.println("이것이 실행이 되냐?");
+		}
+}
