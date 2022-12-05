@@ -1,0 +1,7 @@
+package com.ssafy.modifier01;
+
+public class Car {
+	String color;
+	// 아래의 스피드를 외부에서 접근할 수 없게 만들고 싶다.
+	private int speed; // 속도는 최소 0, 최대 250까지를 가질 수 있다.
+}

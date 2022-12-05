@@ -1,0 +1,19 @@
+package com.ssafy.inheritance01;
+
+public class Student extends Person{
+	String major;
+	
+	public Student() {
+		super(); // 부모의 기본생성자를 호출할거야
+		System.out.println("나는 Student의 기본생성자야.");
+	}
+		
+	public void study() {
+		super.eat();
+		System.out.println("공부를 한다.");
+	}
+	
+	public void eat() {
+		System.out.println("지식을 먹는다.");
+	}
+}

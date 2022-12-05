@@ -5,4 +5,7 @@
     <fullyQualifiedTypeName name="java.lang.reflect.Type"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.ssafy.class03.Person"/>
+    <fullyQualifiedTypeName name="com.ssafy.class02.Person"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,16 @@
+package com.ssafy.modifier02;
+
+public class Student {
+	String name;
+	int age;
+	String major;
+	
+	//getter(매개변수 X, public 타입 getName() ,, return) & setter(public void setName(parameter))를 만들 것이다.
+	public String getName() {
+		return this.name;
+	}
+	
+	public void setName(String name) {
+		this.name = name;
+	}
+}

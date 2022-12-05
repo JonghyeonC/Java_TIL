@@ -1,0 +1,12 @@
+package com.ssafy.modifier01;
+
+// 스캐너를 사용하기 위해서 import해서 가져온다.
+import java.util.*;
+
+public class PackageTest {
+	public static void main(String[] args) {
+		Scanner sc;
+		
+		Arrays arr;
+	}
+}
